@@ -3,7 +3,8 @@
 </p>
 
 <p align="left"> AirBnB clone project</p>
----
+-------------------------------------------------------------------------
+
 ## Description
 
 HolbertonBnB is a web app with a full development of back-end and front-end API
